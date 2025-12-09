@@ -8,4 +8,5 @@ dependencies = [
     "django>=6.0",
     "gunicorn>=23.0.0",
     "httpx>=0.28.1",
+    "pyjwt[crypto]>=2.9",
 ]
