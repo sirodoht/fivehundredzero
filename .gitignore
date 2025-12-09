@@ -11,3 +11,4 @@ wheels/
 
 db.sqlite3
 .envrc
+node_modules/
